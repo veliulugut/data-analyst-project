@@ -19,6 +19,8 @@ This project aims to perform a data analysis in the field of data science using 
 - Python
 - Pandas
 - Matplotlib
+- Numpy
+- Seaborn
 - Jupyter Notebook
 
 ## Project Images
