@@ -23,6 +23,7 @@ This project aims to perform a data analysis in the field of data science using 
 
 ## Project Images
 ![Graph 1](images/graph1.png)
+
 *Figure 1: illustrates the distribution of salaries based on company size. The histogram displays salary ranges for small, medium, and large companies, showing the distribution of salaries across different company sizes.*
 
 ![Graph 2](images/graph2.png)
