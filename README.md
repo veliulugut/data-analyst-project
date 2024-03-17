@@ -32,6 +32,7 @@ This project aims to perform a data analysis in the field of data science using 
 *Figure 2: illustrates the top 5 most popular job titles. The horizontal bar plot visualizes the frequency of each job title, indicating how many times each title appears. This visualization is helpful for comparing the frequency of different job titles.*
 
 ![Graph 3](images/graph3.png)
+
 *Figure 3: This graph visualizes the average salaries based on the years of work experience. The bar chart shows the average salary for each work year category, with labels indicating the exact average salary value. This visualization helps in understanding how average salaries vary with years of work experience.*
 
 
